@@ -5,4 +5,4 @@ CREATE TABLE internassesment.registration (
   dob DATE NOT NULL,
   phonenum VARCHAR(45) NULL,
   PRIMARY KEY (id),
-  UNIQUE INDEX email_UNIQUE (email ASC) VISIBLE); this is my database now give me crud operations in jdbc
+  UNIQUE INDEX email_UNIQUE (email ASC) VISIBLE); 
